@@ -1,15 +1,18 @@
 ---
-title: 'Welcome to The Birch - Dementia day care centre '
-subtitle: Supporting you and your loved ones throughout North Somerset
+title: 'The Birch - Welcome to your Dementia day care centre '
+subtitle: >-
+  We are a community and engagement activity centre for people living with
+  Dementia in North Somerset.
 image: img/eberhard-grossgasteiger-iIFLDQmXPiw-unsplash.jpg
 blurb:
-  heading: What is the Birch?
+  heading: Welcome to the Birch
   text: >+
-    We are a community and engagement activity centre for people living with
-    Dementia in North Somerset.
-
     We pride ourselves on challenging current day care settings through
     providing person-centred, client lead activities.
+
+
+    We want you to be part of the planning and functioning of your centre; the
+    comfortable, open plan environment allows you to be you.
 
 intro:
   heading: What we offer
